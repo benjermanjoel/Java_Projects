@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PersonalWebsite_bjulian:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>PersonalWebsite_bjulian</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="PersonalWebsite_bjulian-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PersonalWebsite_bjulian:war exploded" />
+    </root>
+  </artifact>
+</component>
